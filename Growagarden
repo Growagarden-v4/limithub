@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Growagarden-v4/GrowagardenScript/refs/heads/main/LimithubVisual", true))()
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/DYLWXCGbmWE9WXz2/raw", true))()
+ID="2c3cb811-aad9-436c-8ac2-2818a1e1b778";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
